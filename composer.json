@@ -10,7 +10,7 @@
     ],
     "require": {
         "rmccue/requests": "1.*",
-        "olamedia/nokogiri": "dev-master"
+        "olamedia/nokogiri": "1.*"
     },
     "autoload": {
         "psr-0": {
